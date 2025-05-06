@@ -1,0 +1,7 @@
+﻿  Plane.cpp
+E:\windows\homework\plane\Plane.cpp(47,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\windows\homework\plane\Plane.cpp(57,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\windows\homework\plane\Plane.cpp(57,11): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  plane.vcxproj -> E:\windows\homework\plane\x64\Debug\plane.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
